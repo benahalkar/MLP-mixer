@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+/imagenet_1000_mini.zip
+vgg16_cifar_imnet/
+__pycache__/  
+imagenet-mini/        
+mlp_mnist/  
+vgg16_tiny_imnet/
